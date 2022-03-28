@@ -1,9 +1,11 @@
 from Code.TT1.fibonacci import fibonacci
 from Code.TT2.factorial import Factorial
+from Code.TT2.average import Average
 
 main_menu = [
   ["Fibonacci", "Code/TT1/fibonacci.py"],
   ["Factorial", "Code/TT2/factorial.py"],
+  ["Average", "Code/TT2/average.py"],
   ["List", "list.py"]
 ]
 
