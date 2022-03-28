@@ -16,6 +16,6 @@ This github page will contians the links and resources connecting to all of my a
 ### Week 2
  - GitHub page that documents [key learnings](https://krishnadevl.github.io/AlgorithmsCS3/content/5-5_5-6) and code snippets using GitHub and replit (See Challenges at the bottom of  TT2 (Links to an external site.) for details)
     - Organize [files, directories and menus](https://github.com/KrishnadevL/AlgorithmsCS3/blob/0a70dcef59d86ddba38dae459ac1a63a097634ec/main.py#L1-L2) for the first 3 weeks. 
-    - Write Factorial function using classes, providing [implementation of call.](https://github.com/KrishnadevL/AlgorithmsCS3/blob/131d4a80ab3be8c9fe6ef5061eb2282373e9bab3/Code/TT2/factorial.py#L5-L11)
+    - Write Factorial function using classes, providing [implementation of call.](https://github.com/KrishnadevL/AlgorithmsCS3/blob/6d607ff98bd64fcd35ce3d73cf89c14d81743b35/Code/TT2/factorial.py#L2-L8)
     - Select your own Math function. Write it in Imperative and OOP form. **(Not done at all -1)**
     - Extra Credit(1 point).  Write Palindrome function using classes, must provide implementation of call.  Must indicate where error occurs on front and back comparison. (Not attempted)
