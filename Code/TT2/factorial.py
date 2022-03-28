@@ -5,15 +5,15 @@ class Factorial:
     def __call__(self, n):
         num = 1
         # conducts factorial formula multiplying previous value 
-        for i in range(1,n+1):
-        	num = num * i
+        for item in range(1,n+1):
+        	num = num * item
 
         return num #recursive 
       
 def main():
-  b = int(input("Choose a number:"))
-  fibo_of = Factorial() # object instantiation and run __init__ method
-  print(fibo_of(b)) # object running __call__ method
+  user_num = int(input("Choose a number:"))
+  fact_num = Factorial() # object instantiation and run __init__ method
+  print(fact_num(user_num)) # object running __call__ method
 
 if __name__ == "__main__":
   main()
