@@ -1,7 +1,9 @@
-from fibonacci import fibonacci
+from Code.TT1.fibonacci import fibonacci
+from Code.TT2.factorial import Factorial
 
 main_menu = [
-  ["Fibonacci", "fibonacci.py"],
+  ["Fibonacci", "Code/TT1/fibonacci.py"],
+  ["Factorial", "Code/TT2/factorial.py"],
   ["List", "list.py"]
 ]
 
