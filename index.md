@@ -27,6 +27,7 @@ This github page will contians the links and resources connecting to all of my a
     - Extra Credit(1 point).  Write Palindrome function using classes, must provide implementation of call.  Must indicate where error occurs on front and back comparison. (Not attempted)
 
 {% if page.comments %}
+
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -46,4 +47,5 @@ This github page will contians the links and resources connecting to all of my a
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 {% endif %}
