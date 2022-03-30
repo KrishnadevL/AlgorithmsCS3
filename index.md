@@ -1,3 +1,9 @@
+---
+layout: default
+comments: true
+# other options
+---
+
 ## Welcome to Data Structures 1 - Algorithms Page
 
 {% include navigation.html %}
@@ -19,3 +25,25 @@ This github page will contians the links and resources connecting to all of my a
     - Write Factorial function using classes, providing [implementation of call.](https://github.com/KrishnadevL/AlgorithmsCS3/blob/6d607ff98bd64fcd35ce3d73cf89c14d81743b35/Code/TT2/factorial.py#L2-L8)
     - Select your own Math function. Write it in Imperative and OOP form. **(Not done at all -1)**
     - Extra Credit(1 point).  Write Palindrome function using classes, must provide implementation of call.  Must indicate where error occurs on front and back comparison. (Not attempted)
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-krishnadevl-github-io-algorithmscs3.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
