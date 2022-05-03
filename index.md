@@ -26,6 +26,12 @@ This github page will contians the links and resources connecting to all of my a
     - Select your own Math function. Write it in Imperative and OOP form. **(Not done at all -1)**
     - Extra Credit(1 point).  Write Palindrome function using classes, must provide implementation of call.  Must indicate where error occurs on front and back comparison. (Not attempted)
 
+### AP Test Corrections & Prep 
+- [Create Task Work ](https://krishnadevl.github.io/AlgorithmsCS3/content/krish_create)
+- [AP Test Corrections](https://krishnadevl.github.io/AlgorithmsCS3/content/testcorrections)
+
+
+
 {% if page.comments %}
 
 <div id="disqus_thread"></div>
