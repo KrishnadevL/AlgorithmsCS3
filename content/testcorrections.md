@@ -10,3 +10,16 @@ I didnt consider that a linear search is much better in the event you only had 3
 
 ![image](https://user-images.githubusercontent.com/89166946/166568158-a0dee874-45e8-4f32-8fa4-abd591816e9b.png)
 No compression in the example, thus my answer could not work. the other option was the only potenital solution otherwise
+
+# Quiz 5 Test Corrections 46/50
+![image](https://user-images.githubusercontent.com/89166946/167220461-682f23be-1fd0-41e3-801d-bd8554825dd6.png)
+Doesnt check security of the website, just ensures its encryption is good 
+
+![image](https://user-images.githubusercontent.com/89166946/167220599-cfa7f276-8bb3-4e13-b09e-3902fff3d32d.png)
+This was a misclick, it should have been A as this would loop otherwise. 
+
+![image](https://user-images.githubusercontent.com/89166946/167221087-eb5a4988-c18a-4ad0-bd6a-9e92039a0a5c.png)
+In this instance, since it is only 2 processors and not 4, this would be the optimal breakdown 
+
+![image](https://user-images.githubusercontent.com/89166946/167221194-bbefec32-4128-4a9b-a450-54edc86e81be.png)
+Public keys have a private and public encryption key, not one key
